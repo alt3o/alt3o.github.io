@@ -1,11 +1,11 @@
 title: Alicia Teo # your name (or website title) here
-logo: "/images/Profile.jpg" # your photo (or logo) here
+logo: <center>"/images/Profile.jpg"</center> # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Wharton MBA & MSc in Computer Science
   <br>
   
   <br><br>
-  Second description 
+  Tech Skills
   <br><br>
   <a href="https://www.linkedin.com/in/alicia-teo/"> LinkedIn</a>
   <br>
