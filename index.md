@@ -1,17 +1,21 @@
 ## Projects
-Here are some of the projects I've worked on
+##### Here are some of the projects I've worked on
 ---
 
-### Category Name 1 
+### Travel Planner WebApp
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+### Predicting Airbnb Listing Prices
+
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+
+### Predicting Airbnb Listing Prices
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 

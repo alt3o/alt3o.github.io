@@ -7,13 +7,13 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <b> Skills </b>
   <br>
-  Front-End: JavaScript, CSS, HTML
+  <b> Front-End: </b> JavaScript, CSS, HTML
   <br>
-  Back-End: Java, C
+  <b> Back-End: </b> Java, C
   <br>
-  Data Analysis: Python (Pandas, Numpy, Scikitlearn), R
+  <b> Data Analysis: </b> Python (Pandas, Numpy, Scikitlearn), R
 
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/alicia-teo/"> View my LinkedIn Profile</a>
 
   
