@@ -5,7 +5,11 @@
 ### Travel Planner WebApp
 
 
-Trip planning tool that allows users to search for attractions, cities, and restaurants together. Final project for UPenn's Databases class.
+Allows users to search for attractions, hotels, and restaurants from one place. Recommends top rated hotels and restaurants near the user's chosen attractions. 
+<br>
+
+<br>
+Final project for UPenn's CIS550 Databases class. Nominated for Best Project Award.
 
 <img src="images/550proj1-ANIMATION.gif"/>
 
