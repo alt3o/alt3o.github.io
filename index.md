@@ -12,10 +12,10 @@ Allows users to search for attractions, hotels, and restaurants from one place. 
 Final project for UPenn's CIS550 Databases class. Nominated for Best Project Award.
 
 <img src="images/550proj1-ANIMATION.gif"/>
-
-
-<a href = "https://drive.google.com/open?id=1WYm1LLjcJeDsFEpXkRN5MOJOlsQ0hVbd" > Demo Video </a>
-Tech: AWS OracleRDS Database, AngularJS
+<br>
+Backend: AWS OracleRDS Database
+<br>
+Frontend: AngularJS, NodeJS (Express)
 
 ---
 ### Predicting Airbnb Listing Prices
