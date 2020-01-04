@@ -1,5 +1,5 @@
 title: Alicia Teo # your name (or website title) here
-logo: <center> "/images/Profile.jpg" </center> # your photo (or logo) here
+img: "/images/Profile.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <b> About Me </b>
   <br>
