@@ -6,7 +6,8 @@
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-Demo: 
+
+<a href = "https://drive.google.com/open?id=1WYm1LLjcJeDsFEpXkRN5MOJOlsQ0hVbd" > Demo Video </a>
 
 ---
 ### Predicting Airbnb Listing Prices
