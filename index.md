@@ -4,10 +4,14 @@
 
 ### Travel Planner WebApp
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+Trip planning tool that allows users to search for attractions, cities, and restaurants together. Final project for UPenn's Databases class.
+
+<img src="images/550proj1-ANIMATION.gif"/>
+
 
 <a href = "https://drive.google.com/open?id=1WYm1LLjcJeDsFEpXkRN5MOJOlsQ0hVbd" > Demo Video </a>
+Tech: AWS OracleRDS Database, AngularJS
 
 ---
 ### Predicting Airbnb Listing Prices
