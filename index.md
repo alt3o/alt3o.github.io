@@ -1,12 +1,11 @@
 ## Projects
-##### Here are some of the projects I've worked on
+
 ---
 
 ### Travel Planner WebApp
 
 
 Allows users to search for attractions, hotels, and restaurants from one place. Recommends top rated hotels and restaurants near the user's chosen attractions. 
-<br>
 
 <br>
 Final project for UPenn's CIS550 Databases class. Nominated for Best Project Award.
