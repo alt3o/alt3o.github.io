@@ -23,7 +23,7 @@ The project aims to build a generalizable price prediction tool for Airbnb renta
 <br>
 Evaluated three different machine learning models on generalizability: Linear Regression, LASSO Regression, and Support Vector Regression.
 
-<img src="images/CIS519proj.png?raw=true"/>
+<img src="images/CIS519proj.png"/>
 
 ---
 
