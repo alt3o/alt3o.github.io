@@ -28,9 +28,7 @@ Evaluated three different machine learning models on generalizability: Linear Re
 ---
 
 ### Company Word Analysis with Twitter
-Recommends whether to buy / sell / hold a stock based on sentiment regarding that company on twitter.
-
-Final project for CIT594 Data Structures class. 
+Recommends whether to buy / sell / hold a stock based on sentiment regarding that company on twitter. Final project for CIT594 Data Structures class. 
 
 
 
