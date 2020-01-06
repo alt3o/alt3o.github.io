@@ -18,9 +18,9 @@ Frontend: AngularJS, NodeJS (Express)
 ---
 ### Predicting Airbnb Listing Price
 Final project for CIS519 Applied Machine Learning class. 
-<br>
+
 The project aims to build a generalizable price prediction tool for Airbnb rental units - i.e. see if it is possible to train a model on data from one city (New York City) and then predict prices in a different city (San Francisco)
-<br>
+
 Evaluated three different machine learning models on generalizability: Linear Regression, LASSO Regression, and Support Vector Regression.
 
 <img src="images/CIS519proj.png"/>
