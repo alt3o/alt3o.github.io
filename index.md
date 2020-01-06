@@ -7,7 +7,7 @@ Allows users to search for attractions, hotels, and restaurants from one place. 
 
 Final project for UPenn's CIS550 Databases class. Nominated for Best All-Around Project Award.
 
-Demo video: https://drive.google.com/open?id=1WYm1LLjcJeDsFEpXkRN5MOJOlsQ0hVbd
+<a href="https://drive.google.com/open?id=1WYm1LLjcJeDsFEpXkRN5MOJOlsQ0hVbd" target="_blank">Demo Video</a>
 
 <img src="images/550proj1-ANIMATION.gif"/>
 <br>
